@@ -8,16 +8,16 @@ Faço isso através de soluções de BI e relatórios personalizados, ajudando v
 financeiros por meio da inteligência de dados.
 
 # Serviços
-## Visualização de dados (Power BI)
+**Visualização de dados (Power BI)**\
 Oferecemos serviços de Business Intelligence personalizados, através de APIs ou Cloud Computing para fornecer\
 insights valiosos e acionáveis para sua empresa.
 
-## Extração e transformação de dados em ambiente de Big Data
+**Extração e transformação de dados em ambiente de Big Data**\
 Oferecemos serviços de extração e transformação de grandes volumes de dados para cumprir normas regulatórias;\
 identificar erros em processos; organizar e trazer a qualidade dos dados; especificações internas da sua empresa,\
 garantindo precisão e conformidade em todas as etapas do processo.
 
-## Ciência de Dados
+**Ciência de Dados** \
 Oferecemos serviços modelagem de dados com o uso de técnicas avançadas de modelagem estatística para fornecer insights\
 preditivos e prescritivos, personalizados para atender às necessidades específicas do seu negócio,\
 impulsionando a tomada de decisões informadas e estratégicas
