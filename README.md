@@ -6,12 +6,8 @@ Minha missão é transformar os dados em informação para que as decisões estr
 Faço isso através de soluções de BI e relatórios personalizados, ajudando você a maximizar seus retornos \
 financeiros por meio da inteligência de dados.
 
-
-## Formação
-Físico, PhD. em Geofísica Espacial - Descargas atmosféricas
-
-## Experiência
-**Analista de Qualidade de Dados SR.** EDP Brasil
+## Experiência Profissional
+**Analista de Qualidade de Dados SR.** EDP Brasil 2023-01 - atual
 
 ***Projetos*** \
 - Governança de dados - em andamento\
@@ -20,7 +16,7 @@ Físico, PhD. em Geofísica Espacial - Descargas atmosféricas
 - Extração de dados de Big Data para elaborar relatórios automáticos via e-mail
 
 
-**Analista de Estudos de Mercado PL.** EDP Brasil\
+**Analista de Estudos de Mercado PL.** EDP Brasil 2021-03 - 2022-12 \
 
 ***Projetos*** \
 Automação de processos e dados para entregas regulatórias\
@@ -31,10 +27,16 @@ Modelo de previsão de carga por séries temporais (SARIMAX)\
 Coordenação de projeto de identificação de imagem e UI para área de negócio\
 
 
-**Analista de Modelagem de Dados PL. Banco Santander** \
+**Analista de Modelagem de Dados PL. Banco Santander** 2019-01 - 2020-03 \
 
 ***Projetos*** \
 Modelo de propensão a contrataçao de Crédito \
 Modelo de propensão a contratação de ADQ \
 Modelo de faturamento de empresas baseado em ADQ \
 Participação do time de modelo de precificação (Consulturoai Quantum Black - McKinsey) \
+
+
+## Formação
+Graduado em Física - Universidade Federal de Minas Gerais
+Mestre em Geofísica Espacial - Instituto Nacional de Pesquisas Espaciais
+PhD. em Geofísica Espacial - Instituto Nacional de Pesquisas Espaciais
