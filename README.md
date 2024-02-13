@@ -1,9 +1,10 @@
 # A.M. Analytics
 
-Sou um cientista de dados especializado em análise de dados, extração de informações de ambientes de cloud e modelagem de dados \
-para impulsionar a lucratividade de empresas. \
+Sou um cientista de dados especializado em análise de dados, extração de informações de ambientes de cloud \
+e modelagem de dados para impulsionar a lucratividade de empresas. \
 Minha missão é transformar os dados em informação para que as decisões estratégicas estejam mais embasadas.\
-Faço isso através de soluções de BI e relatórios personalizados, ajudando você a maximizar seus retornos financeiros por meio da inteligência de dados.\
+Faço isso através de soluções de BI e relatórios personalizados, ajudando você a maximizar seus retornos \
+financeiros por meio da inteligência de dados.
 
 
 ## Formação
