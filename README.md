@@ -17,7 +17,8 @@ Oferecemos serviços de extração e transformação de grandes volumes de dados
 - cumprir normas regulatórias;
 - identificar erros em processos;
 - organizar e trazer a qualidade dos dados;
-- especificações internas da sua empresa.\
+- especificações internas da sua empresa.
+
 Tudo isso a fim de garantir precisão e conformidade em todas as etapas do processo de negócio.
 
 ### Ciência de Dados
