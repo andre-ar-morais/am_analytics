@@ -21,9 +21,9 @@ Oferecemos serviços de extração e transformação de grandes volumes de dados
 Tudo isso a fim de garantir precisão e conformidade em todas as etapas do processo de negócio.
 
 ### Ciência de Dados
-Oferecemos serviços modelagem de dados com o uso de técnicas avançadas de modelagem estatística para fornecer insights\
-preditivos e prescritivos, personalizados para atender às necessidades específicas do seu negócio, impulsionando\
-a tomada de decisões informadas e estratégicas
+Oferecemos serviços predição e prescrição de dados com o uso de técnicas avançadas de modelagem estatística para fornecer insights\
+personalizados a fim de atender às necessidades específicas do seu negócio, garantindo que as tomadas de decisões estratégicas\
+sejam informadas com o melhor que os dados podem revelar.
 
 ## Experiência Profissional
 ### **Analista de Qualidade de Dados SR.**
