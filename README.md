@@ -1,19 +1,19 @@
 # A.M. Analytics
 
-Sou um cientista de dados especializado em análise de dados, extração de informações de ambientes de cloud \
-e modelagem de dados para impulsionar a lucratividade de empresas.\
+Sou um cientista de dados especializado em **análise de dados, extração de informações de ambientes de cloud 
+e modelagem de dados** para impulsionar a lucratividade de empresas.
 
-Minha missão é transformar os dados em informação para que as decisões estratégicas estejam mais embasadas.\
-Faço isso através de soluções de BI e relatórios personalizados, ajudando você a maximizar seus retornos \
+Minha missão é transformar os dados em informação para que as decisões estratégicas estejam mais embasadas.
+Faço isso através de soluções de BI e relatórios personalizados, ajudando você a maximizar seus retornos 
 financeiros por meio da inteligência de dados.
 
 # Serviços
 ### Visualização de dados (Power BI)
-Oferecemos serviços de Business Intelligence personalizados, extraindo dados de APIs ou Cloud Computing para fornecer\
+Oferecemos serviços de Business Intelligence personalizados, extraindo dados de APIs ou Cloud Computing para fornecer
 insights valiosos e acionáveis para sua empresa.
 
 ### Extração e transformação de dados em ambiente de Big Data
-A fim de garantir precisão e conformidade em todas as etapas do processo de negócio, oferecemos serviços de extração e\
+A fim de garantir precisão e conformidade em todas as etapas do processo de negócio, oferecemos serviços de extração e
 transformação de grandes volumes de dados de Cloud Computing (Azure, Hadoop, etc) para:
 - cumprir normas regulatórias;
 - identificar erros em processos;
@@ -21,8 +21,8 @@ transformação de grandes volumes de dados de Cloud Computing (Azure, Hadoop, e
 - especificações internas da sua empresa.
 
 ### Ciência de Dados
-Oferecemos serviços predição e prescrição de dados com o uso de técnicas avançadas de modelagem estatística para fornecer insights\
-personalizados a fim de atender às necessidades específicas do seu negócio, garantindo que as tomadas de decisões estratégicas\
+Oferecemos serviços predição e prescrição de dados com o uso de técnicas avançadas de modelagem estatística para fornecer insights
+personalizados a fim de atender às necessidades específicas do seu negócio, garantindo que as tomadas de decisões estratégicas
 sejam informadas com o melhor que os dados podem revelar.
 
 ## Experiência Profissional
