@@ -13,9 +13,12 @@ Oferecemos serviços de Business Intelligence personalizados, extraindo dados de
 insights valiosos e acionáveis para sua empresa.
 
 ### Extração e transformação de dados em ambiente de Big Data
-Oferecemos serviços de extração e transformação de grandes volumes de dados de Cloud Computing (Azure, Hadoop, etc)\
-para cumprir normas regulatórias; identificar erros em processos; organizar e trazer a qualidade dos dados; \
-especificações internas da sua empresa, garantindo precisão e conformidade em todas as etapas do processo.
+Oferecemos serviços de extração e transformação de grandes volumes de dados de Cloud Computing (Azure, Hadoop, etc) para:
+- cumprir normas regulatórias;
+- identificar erros em processos;
+- organizar e trazer a qualidade dos dados;
+- especificações internas da sua empresa.
+Tudo isso a fim de garantir precisão e conformidade em todas as etapas do processo de negócio.
 
 ### Ciência de Dados
 Oferecemos serviços modelagem de dados com o uso de técnicas avançadas de modelagem estatística para fornecer insights\
